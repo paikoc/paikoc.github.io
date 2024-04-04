@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://paikoc.github.io/sitemap/sitemap.txt
